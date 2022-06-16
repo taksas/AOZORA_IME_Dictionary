@@ -2,7 +2,10 @@
 <h2>青空文庫のデータから自動生成した、Microsoft IME用辞書データ</h2>
 <br>
 <br>
-はじまりはこの [リポジトリ](https://github.com/taksas/GOJI_Trapper) 。
+はじまりはこの
+
+[リポジトリ](https://github.com/taksas/GOJI_Trapper)
+
 <br>
 <br>
 
