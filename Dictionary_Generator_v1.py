@@ -73,6 +73,14 @@ def maker(text):
                        .replace('△', '')\
                        .replace('○', '')\
                        .replace('◇', '')\
+                       .replace('〇', '')\
+                       .replace('◎', '')\
+                       .replace('▼', '')\
+                       .replace('□', '')\
+                       .replace('δ', '')\
+                       .replace('ο', '')\
+                       .replace('※', '')\
+                       .replace('β', '')\
                        .replace('\n', '')
 
         
