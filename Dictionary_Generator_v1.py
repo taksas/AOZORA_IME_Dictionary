@@ -81,6 +81,25 @@ def maker(text):
                        .replace('ο', '')\
                        .replace('※', '')\
                        .replace('β', '')\
+                       .replace('◯', '')\
+                       .replace('─', '')\
+                       .replace('│', '')\
+                       .replace('〔', '')\
+                       .replace('〕', '')\
+                       .replace('│', '')\
+                       .replace('〈', '')\
+                       .replace('〉', '')\
+                       .replace('┌', '')\
+                       .replace('／', '')\
+                       .replace('＼', '')\
+                       .replace('〔', '')\
+                       .replace('〕', '')\
+                       .replace('“', '')\
+                       .replace('”', '')\
+                       .replace('＜', '')\
+                       .replace('＞', '')\
+                       .replace('=', '')\
+                       .replace('…', '')\
                        .replace('\n', '')
 
         
